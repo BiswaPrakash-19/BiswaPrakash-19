@@ -35,26 +35,13 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BiswaPrkash-19&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BiswaPrkash-19&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswaPrkash-19&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ## 📫 Let’s Connect
 
 - 📧 Email: [biswaprakash1045@gmail.com](mailto:biswaprakash1045@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [linkedin.com/in/biswa-prakash-maharana-5b13a4327](https:linkedin.com/in/biswa-prakash-maharana-5b13a4327)
+- 📸 Instagram: [biswa_prakash_19](https://instagram.com/biswa_prakash_19)
 <!-- - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) -->
 
 ---
