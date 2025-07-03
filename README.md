@@ -1,7 +1,7 @@
 <h1 align="center">Hey!👋, I'm Biswa Prakash Maharana</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer | Data Engineering Student @ Mumbai University</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=Infinity&center=true&vCenter=true&width=500&lines=👋+Biswa+Prakash+Maharana" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=Infinity&center=true&vCenter=true&width=500&lines=👋Biswa+Prakash+Maharana" alt="Typing SVG"/>
 </p>
 
 <p align="center">
