@@ -1,5 +1,8 @@
 <h1 align="center">Hey!👋, I'm Biswa Prakash Maharana</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer | Data Engineering Student @ Mumbai University</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&width=500&lines=Biswa+Prakash+Maharana" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Node.js+%7C+Express+%7C+MongoDB;Learning+and+Building+every+day!" alt="Typing SVG" />
